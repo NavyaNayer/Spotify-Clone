@@ -16,6 +16,3 @@ To get a local copy up and running, follow these simple steps:
     ```
 2. Open the `index.html` file in your browser.
 
-## Contact
-Your Name - [Your Website](https://example.com)  
-Project Link: [https://github.com/your_username/spotify-clone](https://github.com/your_username/spotify-clone)
