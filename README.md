@@ -1,5 +1,6 @@
 # Spotify Clone
-
+## Description
+This is a simple HTML/CSS project aiming to replicate the layout and design of the Spotify web application.
 ![Project Preview](preview.png)
 
 ## Features
