@@ -18,3 +18,6 @@ To get a local copy up and running, follow these simple steps:
     ```
 2. Open the `index.html` file in your browser.
 
+## Acknowledgments
+- [Font Awesome](https://fontawesome.com/) for the icons used in the project.
+- [Google Fonts](https://fonts.google.com/) for the fonts used in the project.
