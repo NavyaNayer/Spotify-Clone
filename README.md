@@ -14,7 +14,7 @@ This is a simple HTML/CSS project aiming to replicate the layout and design of t
 To get a local copy up and running, follow these simple steps:
 1. Clone the repo:
     ```
-    git clone https://github.com/your_username/spotify-clone.git
+    git clone https://github.com/NavyaNayer/Spotify-Clone.git
     ```
 2. Open the `index.html` file in your browser.
 
